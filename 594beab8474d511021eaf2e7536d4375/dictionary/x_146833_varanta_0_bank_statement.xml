@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="80bb66f8474d511021eaf2e7536d43a5" label="Bank statement" max_length="40" name="x_146833_varanta_0_bank_statement" type="collection">
+        <element label="Balance" max_length="40" name="balance" type="float"/>
+        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element label="Deposit Amount" max_length="40" name="deposit_amount" type="float"/>
+        <element label="Description" max_length="200" name="description" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element choice="1" label="Transaction category" max_length="40" name="transaction_category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fuel" sequence="10" value="fuel"/>
+                <element inactive_on_update="false" label="Fees" sequence="20" value="fees"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="30" value="maintenance"/>
+                <element inactive_on_update="false" label="Medical" sequence="40" value="medical"/>
+                <element inactive_on_update="false" label="Grocery" sequence="50" value="grocery"/>
+            </choice>
+        </element>
+        <element choice="3" label="Transaction type" max_length="40" name="transaction_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Credit" sequence="10" value="credit"/>
+                <element inactive_on_update="false" label="Debit" sequence="20" value="debit"/>
+            </choice>
+        </element>
+        <element label="Withdrawal Amount" max_length="40" name="withdrawal_amount" type="float"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

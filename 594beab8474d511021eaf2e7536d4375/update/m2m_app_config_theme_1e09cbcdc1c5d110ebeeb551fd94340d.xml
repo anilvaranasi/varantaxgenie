@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>adminanil</sys_created_by>
+        <sys_created_on>2022-07-31 02:09:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1e09cbcdc1c5d110ebeeb551fd94340d</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="varantaxgenie" source="x_146833_varanta_0">594beab8474d511021eaf2e7536d4375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="varantaxgenie">594beab8474d511021eaf2e7536d4375</sys_scope>
+        <sys_update_name>m2m_app_config_theme_1e09cbcdc1c5d110ebeeb551fd94340d</sys_update_name>
+        <theme display_value="Starter Workspace Theme">9e09cbcd48c5d110d2f270f69630a10d</theme>
+        <ux_app_configuration display_value="varantaxgenie Config">da09cbcd3ec5d1100ad7efac03957e0d</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

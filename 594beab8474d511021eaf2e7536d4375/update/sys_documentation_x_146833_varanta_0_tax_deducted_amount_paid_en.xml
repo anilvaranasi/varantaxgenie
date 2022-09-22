@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="amount_paid" label="Amount paid" language="en" table="x_146833_varanta_0_tax_deducted">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>amount_paid</element>
+            <help/>
+            <hint/>
+            <label>Amount paid</label>
+            <language>en</language>
+            <name>x_146833_varanta_0_tax_deducted</name>
+            <plural>Amount paids</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>adminanil</sys_created_by>
+            <sys_created_on>2022-07-31 06:08:27</sys_created_on>
+            <sys_name>Amount paid</sys_name>
+            <sys_package display_value="varantaxgenie" source="x_146833_varanta_0">594beab8474d511021eaf2e7536d4375</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="varantaxgenie">594beab8474d511021eaf2e7536d4375</sys_scope>
+            <sys_update_name>sys_documentation_x_146833_varanta_0_tax_deducted_amount_paid_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="transaction_category" table="x_146833_varanta_0_bank_statement" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>transaction_category</element>
+            <name>x_146833_varanta_0_bank_statement</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>adminanil</sys_created_by>
+            <sys_created_on>2022-07-30 08:12:01</sys_created_on>
+            <sys_name>transaction_category</sys_name>
+            <sys_package display_value="varantaxgenie" source="x_146833_varanta_0">594beab8474d511021eaf2e7536d4375</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="varantaxgenie">594beab8474d511021eaf2e7536d4375</sys_scope>
+            <sys_update_name>sys_choice_x_146833_varanta_0_bank_statement_transaction_category</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>transaction_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fuel</label>
+            <language>en</language>
+            <name>x_146833_varanta_0_bank_statement</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>adminanil</sys_created_by>
+            <sys_created_on>2022-07-30 08:12:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>fuel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>transaction_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Fees</label>
+            <language>en</language>
+            <name>x_146833_varanta_0_bank_statement</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>adminanil</sys_created_by>
+            <sys_created_on>2022-07-30 08:12:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>fees</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>transaction_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maintenance</label>
+            <language>en</language>
+            <name>x_146833_varanta_0_bank_statement</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>adminanil</sys_created_by>
+            <sys_created_on>2022-07-30 08:12:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>maintenance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>transaction_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Medical</label>
+            <language>en</language>
+            <name>x_146833_varanta_0_bank_statement</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>adminanil</sys_created_by>
+            <sys_created_on>2022-07-30 08:12:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>medical</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>transaction_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Grocery</label>
+            <language>en</language>
+            <name>x_146833_varanta_0_bank_statement</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>adminanil</sys_created_by>
+            <sys_created_on>2022-07-30 08:12:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>grocery</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

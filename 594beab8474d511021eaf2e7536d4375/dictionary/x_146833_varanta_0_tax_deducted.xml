@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c6c9b3c5470dd11021eaf2e7536d43f6" label="Tax deducted" max_length="40" name="x_146833_varanta_0_tax_deducted" type="collection">
+        <element label="Amount paid" max_length="40" name="amount_paid" type="float"/>
+        <element choice="3" label="Assessment Year" max_length="40" name="assessment_year" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="2022-23" sequence="10" value="202223"/>
+                <element inactive_on_update="false" label="2021-22" sequence="20" value="202122"/>
+            </choice>
+        </element>
+        <element label="From Date" max_length="40" name="from_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="3" label="Quarter" max_length="40" name="quarter" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Q1" sequence="10" value="q1"/>
+                <element inactive_on_update="false" label="Q2" sequence="20" value="q2"/>
+                <element inactive_on_update="false" label="Q3" sequence="30" value="q3"/>
+                <element inactive_on_update="false" label="Q4" sequence="40" value="q4"/>
+            </choice>
+        </element>
+        <element label="Receipt Number" max_length="40" name="receipt_number" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element label="Tax deducted" max_length="40" name="tax_deducted" type="float"/>
+        <element label="Tax deposited" max_length="40" name="tax_deposited" type="float"/>
+        <element label="To Date" max_length="40" name="to_date" type="glide_date"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

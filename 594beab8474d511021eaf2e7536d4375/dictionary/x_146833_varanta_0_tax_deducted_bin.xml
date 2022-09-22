@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="76a0d459478dd11021eaf2e7536d4321" extends="x_146833_varanta_0_tax_deducted" label="Tax deducted bin" max_length="40" name="x_146833_varanta_0_tax_deducted_bin" type="collection"/>
+</database>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="varantaxgenie Config">da09cbcd3ec5d1100ad7efac03957e0d</app_config>
+        <description/>
+        <extension_point/>
+        <fields>uuid</fields>
+        <icon/>
+        <name>KPI Details</name>
+        <optional_parameters>scoreDate,breakdowns,domain</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>ac_kpi_details</route_type>
+        <screen_type display_value="KPI Details">9609cbcdbcc5d110b3294cc948c0280c</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>adminanil</sys_created_by>
+        <sys_created_on>2022-07-31 02:09:18</sys_created_on>
+        <sys_id>5209cbcd4dc5d11025589a882187e30c</sys_id>
+        <sys_name>KPI Details</sys_name>
+        <sys_package display_value="varantaxgenie" source="x_146833_varanta_0">594beab8474d511021eaf2e7536d4375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="varantaxgenie">594beab8474d511021eaf2e7536d4375</sys_scope>
+        <sys_update_name>sys_ux_app_route_5209cbcd4dc5d11025589a882187e30c</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=5209cbcd4dc5d11025589a882187e30c"/>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDfd6f9fc659c5591020fa6ab73f1efafc</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>594beab8474d511021eaf2e7536d4375</scope_name>
+        <serialized_content>{"FlowDesigner:FDfd6f9fc659c5591020fa6ab73f1efafc":{},"FlowDesigner:FDfd6f9fc659c5591020fa6ab73f1efafc.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDfd6f9fc659c5591020fa6ab73f1efafc\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":null,\"label\":\"Request Headers\",\"mandatory\":\"false\",\"order\":\"120\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>adminanil</sys_created_by>
+        <sys_created_on>2022-08-03 06:20:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b16f9fc647c5591021eaf2e7536d43fd</sys_id>
+        <sys_name>FDfd6f9fc659c5591020fa6ab73f1efafc</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="varantaxgenie" source="x_146833_varanta_0">594beab8474d511021eaf2e7536d4375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="varantaxgenie">594beab8474d511021eaf2e7536d4375</sys_scope>
+        <sys_update_name>sys_complex_object_b16f9fc647c5591021eaf2e7536d43fd</sys_update_name>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

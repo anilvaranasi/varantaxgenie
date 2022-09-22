@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_146833_varanta_0_tax_deducted">x_146833_varanta_0_tax_deducted</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>TDT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>adminanil</sys_created_by>
+        <sys_created_on>2022-07-31 05:42:17</sys_created_on>
+        <sys_id>a6c9f3c5470dd11021eaf2e7536d434c</sys_id>
+        <sys_name>TDT</sys_name>
+        <sys_package display_value="varantaxgenie" source="x_146833_varanta_0">594beab8474d511021eaf2e7536d4375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="varantaxgenie">594beab8474d511021eaf2e7536d4375</sys_scope>
+        <sys_update_name>sys_number_a6c9f3c5470dd11021eaf2e7536d434c</sys_update_name>
+    </sys_number>
+</record_update>

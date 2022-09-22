@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bad0d859478dd11021eaf2e7536d4397" extends="x_146833_varanta_0_tax_deducted" label="Tax deducted cin" max_length="40" name="x_146833_varanta_0_tax_deducted_cin" type="collection">
+        <element label="BSR code" max_length="40" name="bsr_code" type="integer"/>
+        <element label="Challan number" max_length="40" name="challan_number" type="integer"/>
+        <element label="oltas match" max_length="40" name="oltas_match" type="boolean"/>
+        <element label="Tax deposited date" max_length="40" name="tax_deposited_date" type="glide_date"/>
+    </element>
+</database>

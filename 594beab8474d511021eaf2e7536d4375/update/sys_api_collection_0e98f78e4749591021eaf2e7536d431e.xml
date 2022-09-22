@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_api_collection">
+    <sys_api_collection action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_path>/api/x_146833_varanta_0/dg_triggerscheduledexportandpowershellscript</base_path>
+        <description/>
+        <display_name>Rest trigger for flow id=abd4df864785591021eaf2e7536d43d0 - v1</display_name>
+        <name>Rest trigger for flow id=abd4df864785591021eaf2e7536d43d0</name>
+        <sys_class_name>sys_api_collection</sys_class_name>
+        <sys_created_by>adminanil</sys_created_by>
+        <sys_created_on>2022-08-03 08:11:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0e98f78e4749591021eaf2e7536d431e</sys_id>
+        <sys_name>Rest trigger for flow id=abd4df864785591021eaf2e7536d43d0 - v1</sys_name>
+        <sys_package display_value="varantaxgenie" source="x_146833_varanta_0">594beab8474d511021eaf2e7536d4375</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="varantaxgenie">594beab8474d511021eaf2e7536d4375</sys_scope>
+        <sys_update_name>sys_api_collection_0e98f78e4749591021eaf2e7536d431e</sys_update_name>
+        <version>v1</version>
+    </sys_api_collection>
+</record_update>
